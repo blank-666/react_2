@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_2/static/css/main.91e92042.chunk.css",
+    "main.js": "/react_2/static/js/main.d7f2879d.chunk.js",
+    "main.js.map": "/react_2/static/js/main.d7f2879d.chunk.js.map",
+    "runtime-main.js": "/react_2/static/js/runtime-main.899744e7.js",
+    "runtime-main.js.map": "/react_2/static/js/runtime-main.899744e7.js.map",
+    "static/js/2.b511e22c.chunk.js": "/react_2/static/js/2.b511e22c.chunk.js",
+    "static/js/2.b511e22c.chunk.js.map": "/react_2/static/js/2.b511e22c.chunk.js.map",
+    "index.html": "/react_2/index.html",
+    "precache-manifest.e6231f38bafec2ff23857a11f39a430e.js": "/react_2/precache-manifest.e6231f38bafec2ff23857a11f39a430e.js",
+    "service-worker.js": "/react_2/service-worker.js",
+    "static/css/main.91e92042.chunk.css.map": "/react_2/static/css/main.91e92042.chunk.css.map",
+    "static/js/2.b511e22c.chunk.js.LICENSE.txt": "/react_2/static/js/2.b511e22c.chunk.js.LICENSE.txt",
+    "static/media/anonymous.svg": "/react_2/static/media/anonymous.71ee1719.svg",
+    "static/media/call.svg": "/react_2/static/media/call.58b5d0bb.svg",
+    "static/media/female.svg": "/react_2/static/media/female.5c87994c.svg",
+    "static/media/mars.svg": "/react_2/static/media/mars.07582995.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899744e7.js",
+    "static/js/2.b511e22c.chunk.js",
+    "static/css/main.91e92042.chunk.css",
+    "static/js/main.d7f2879d.chunk.js"
+  ]
+}
